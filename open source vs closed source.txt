@@ -1,0 +1,3 @@
+Open source = the source code is avaiable to everyone
+closed source = the source code is not avaiable to everyone
+

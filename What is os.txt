@@ -1,0 +1,3 @@
+computer speaks = 0 and 1
+
+os makes you and the pc talk
