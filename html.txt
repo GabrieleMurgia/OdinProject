@@ -1,0 +1,20 @@
+what is the purpose of the lang attribute?
+it specifies the language inside the tag,
+This attribute is primarily used for improving 
+accessibility of the webpage. 
+
+
+what are the basic tags?
+Head element = where we put important meta-information about our webpages, and stuff required for our webpages to render correctly in the browser.
+Meta element = <meta charset="utf-8"> , 
+Setting the encoding is very important 
+because it ensures that the webpage will display 
+special symbols and characters 
+from different languages correctly in the browser.
+Title element = The <title> element is used
+to give webpages a human-readable 
+title which is displayed in our webpage’s browser tab.
+
+
+what is the comand to generate all the boilerplate html?
+!
